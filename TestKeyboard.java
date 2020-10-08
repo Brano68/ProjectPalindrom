@@ -1,3 +1,7 @@
+/**
+Toto je trieda
+*/
+
 package sk.kosickaakademia.nebus.nacitavanie;
 import java.util.Scanner;
 

@@ -1,3 +1,6 @@
+/**
+Toto je hlavny program
+*/
 package sk.kosickaakademia.nebus.nacitavanie;
 
 public class Main {
